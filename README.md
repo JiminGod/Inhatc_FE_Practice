@@ -1,7 +1,7 @@
 # 인하공전 프론트엔드 수업 프로젝트
 
 ## 프로젝트 소개
-ReactJS로 제작한 성적표 작성 페이지
+ReactJS로 작성한 성적표 작성 페이지
 
 ## 개발언어
 JavaScript, ReactJS
