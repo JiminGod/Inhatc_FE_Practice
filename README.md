@@ -40,5 +40,5 @@ JavaScript, ReactJS
 #### 아무것도 작성되지 않은 화면
 <img width="1440" alt="스크린샷 2023-11-15 오후 3 47 47" src="https://github.com/JiminGod/Inhatc_FE_Practice/assets/129360388/4a2c953b-b56c-4c12-b9c5-942fd7e3ce6e">
 
-#### 작성된 화면
+#### 성적이 작성된 화면
 <img width="1440" alt="스크린샷 2023-11-15 오후 3 14 21" src="https://github.com/JiminGod/Inhatc_FE_Practice/assets/129360388/7afac947-339a-4fb2-9255-5e4047537d92">
